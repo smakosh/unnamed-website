@@ -1,0 +1,13 @@
+# Node modules
+node_modules
+
+# cache
+.cache
+
+# Docz config
+.docz
+
+# Generated stuff
+public/page-data
+public/static
+public/index.html
