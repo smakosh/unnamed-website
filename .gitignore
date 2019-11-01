@@ -8,6 +8,5 @@ node_modules
 .docz
 
 # Generated stuff
-public/page-data
-public/static
-public/index.html
+public/*
+!public/assets

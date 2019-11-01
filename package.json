@@ -16,6 +16,7 @@
   "scripts": {
     "start": "gatsby develop",
     "reset": "rm -rf .cache/",
-    "clean": "rm -rf node_modules .cache/"
+    "clean": "rm -rf node_modules .cache/",
+    "build": "gatsby build"
   }
 }
