@@ -58,6 +58,10 @@ button:last-child {
   color: #fff;
 }
 
+.columns .column p {
+  margin: .5rem 0;
+}
+
 .card .card-img img {
   margin-bottom: unset;
 }

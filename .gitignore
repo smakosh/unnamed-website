@@ -7,6 +7,9 @@ node_modules
 # Docz config
 .docz
 
-# Generated stuff
+# Generated dev
 public/*
 !public/assets
+
+# Generated build
+.docz
