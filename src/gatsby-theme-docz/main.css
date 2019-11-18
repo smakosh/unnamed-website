@@ -41,6 +41,12 @@ button {
   margin-right: 1rem;
 }
 
+@media screen and (max-width: 960px) {
+  button {
+    margin-bottom: 1rem;
+  }
+}
+
 button:last-child {
   margin-right: unset;
 }
@@ -56,12 +62,21 @@ button:last-child {
   padding: 0.01rem 1px;
   text-align: center;
   color: #fff;
+  margin-bottom: 1rem;
 }
 
-.columns .column p {
+.columns p {
   margin: .5rem 0;
 }
 
 .card .card-img img {
   margin-bottom: unset;
+}
+
+img {
+  margin-bottom: unset;
+}
+
+pre {
+  overflow-x: scroll;
 }

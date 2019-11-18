@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "docz": "^2.0.0-rc.68",
+    "docz": "^2.0.0-rc.75",
     "gatsby": "^2.17.7",
     "gatsby-plugin-google-analytics": "^2.1.27",
     "gatsby-plugin-react-helmet": "^3.1.13",

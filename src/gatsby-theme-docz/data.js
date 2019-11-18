@@ -1,10 +1,10 @@
 export default {
   defaultTitle: "Unnamed css – An open source colorful css framework",
   siteName: "Unnamed",
-  logo: "https://unnamed.smakosh.com/favicon/logo-192.png",
+  logo: "https://unnamed.smakosh.com/assets/favicon/logo-192.png",
   url: "https://unnamed.smakosh.com",
-  favicon: "https://unnamed.smakosh.com/favicon/logo-48.png",
-  cover: "https://unnamed.smakosh.com/unnamed.jpeg",
+  favicon: "https://unnamed.smakosh.com/assets/favicon/logo-48.png",
+  cover: "https://unnamed.smakosh.com/assets/unnamed.jpeg",
   legalName: "Unnamed css",
   description: "An open source colorful css framework",
   socialLinks: {
